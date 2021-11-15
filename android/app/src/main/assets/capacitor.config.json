@@ -1,0 +1,6 @@
+{
+	"appId": "com.merit.app",
+	"appName": "capacitor",
+	"webDir": "out",
+	"bundledWebRuntime": false
+}
